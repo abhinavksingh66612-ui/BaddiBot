@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OPMCALWAYS.aternos.me",
+    "ip": "bluefish.aternos.host:57233",
     "port":  57233,
     "version": "",
     "try-creative": false
